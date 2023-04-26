@@ -1,0 +1,28 @@
+p{
+    font-weight: bold;
+    font-size:20px;
+
+}
+
+#top{
+    text-decoration:underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: purple
+}
+a:visited{
+    color:purple
+}
+
+body{
+    background-color: lightyellow;
+    font-family:'Gill Sans', 'Gill Sans MT', calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 20px; 
+
+}
+
+
